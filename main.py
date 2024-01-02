@@ -4,5 +4,6 @@ from entrada_salida import salida
 'Mostramos el menu y la opcion elegida'
 menu.options
 
-salida.menu
+'Retorna el resultado de la operacion'
+salida.return_operation
 
